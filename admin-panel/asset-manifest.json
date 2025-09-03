@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.adf45d99.css",
+    "main.js": "/static/js/main.223b9929.js",
+    "static/media/maa-bharti-logo.png": "/static/media/maa-bharti-logo.32b2feb8def85ebc39dd.png",
+    "index.html": "/index.html",
+    "main.adf45d99.css.map": "/static/css/main.adf45d99.css.map",
+    "main.223b9929.js.map": "/static/js/main.223b9929.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adf45d99.css",
+    "static/js/main.223b9929.js"
+  ]
+}
